@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "573770242419",
+    "project_id": "footballforfriends-21e9c",
+    "storage_bucket": "footballforfriends-21e9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573770242419:android:860eaee7babf89f1990d06",
+        "android_client_info": {
+          "package_name": "com.asaferdman.FootballForFriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573770242419-s23q2dbhn3om9ri1o0j1os7hibvnp3f4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asaferdman.FootballForFriends",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "573770242419-bk6lgij8l90k0a3tsuundqtgipotq83o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBPultK_UQ8uvSnLPMFHWzpHxBFThx0_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573770242419-bk6lgij8l90k0a3tsuundqtgipotq83o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
